@@ -1,2 +1,2 @@
 x = 123
-print(x)
+print(x,x)
